@@ -1,6 +1,10 @@
 # components
 
 > A Vue.js project
+> 组件列表：
+  1. table
+  2. select
+  3. pagination
 
 ## Build Setup
 
